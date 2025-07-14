@@ -3,7 +3,7 @@
 name = "pubmed-fetcher"
 version = "0.1.0"
 description = "Fetches PubMed papers with company-affiliated authors."
-authors = ["Your Name <your.email@example.com>"]
+authors = ["Donga Harika Sri <21b01a0418@svecw.edu.in>"]
 packages = [{include = "pubmed_fetcher"}]
 
 [tool.poetry.dependencies]
