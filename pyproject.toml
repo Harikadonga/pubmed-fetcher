@@ -1,0 +1,14 @@
+
+[tool.poetry]
+name = "pubmed-fetcher"
+version = "0.1.0"
+description = "Fetches PubMed papers with company-affiliated authors."
+authors = ["Your Name <your.email@example.com>"]
+packages = [{include = "pubmed_fetcher"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+requests = "^2.31.0"
+
+[tool.poetry.scripts]
+get-papers-list = "pubmed_fetcher.main:main"
