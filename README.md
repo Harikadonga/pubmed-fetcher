@@ -16,7 +16,7 @@ A Python command-line tool that fetches research papers from PubMed based on a u
 
 ---
 
-## 🛠 Installation
+##  Installation
 
 ### Clone the repo
 
@@ -88,7 +88,7 @@ Pfizer, Novartis, Roche, Johnson & Johnson, Merck, GSK, AstraZeneca, Sanofi, Bay
 ### Industry Keywords
 `pharma`, `biotech`, `biopharma`, `drug`, `medication`, `clinical`, `therapeutics`, `vaccine`, `genomics`, `molecular`, `healthcare`, `CRISPR`, `oncology`, and more.
 
-# The tool uses heuristics to identify non-academic institutions by checking for absence of academic keywords like `university`, `institute`, `hospital`, etc.
+The tool uses heuristics to identify non-academic institutions by checking for absence of academic keywords like `university`, `institute`, `hospital`, etc.
 
 ---
 
