@@ -152,7 +152,6 @@ If you encounter issues:
 **Languages:** Python 100%  
 **Version:** 0.1.0  
 **Status:** In development  
-**Test PyPI:** Coming soon
 
 ---
 
