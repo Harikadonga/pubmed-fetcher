@@ -5,6 +5,6 @@ A command-line tool to fetch PubMed papers with authors from biotech or pharmace
 ##  Installation
 
 ```bash
-git clone https://github.com/yourusername/pubmed-fetcher.git
+git clone https://github.com/Harikadonga/pubmed-fetcher.git
 cd pubmed-fetcher
 poetry install
